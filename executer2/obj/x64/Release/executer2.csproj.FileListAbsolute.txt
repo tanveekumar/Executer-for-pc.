@@ -1,0 +1,12 @@
+C:\Users\Rajesh\Desktop\executer2\bin\x64\Release\executer2.exe.config
+C:\Users\Rajesh\Desktop\executer2\bin\x64\Release\executer2.exe
+C:\Users\Rajesh\Desktop\executer2\bin\x64\Release\executer2.pdb
+C:\Users\Rajesh\Desktop\executer2\bin\x64\Release\CloudyApis.dll
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.csproj.AssemblyReference.cache
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.Form1.resources
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.Properties.Resources.resources
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.csproj.GenerateResource.cache
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.csproj.Up2Date
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.exe
+C:\Users\Rajesh\Desktop\executer2\obj\x64\Release\executer2.pdb
